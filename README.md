@@ -1,10 +1,11 @@
 # A-Tiny-Tail
-Jogo em produção como projeto extensionista
+Game in production as an extension project
 
-  RESPONSÁVEIS:
-- Direção: Beatriz Brayner & Luísa Moreira
-- Programação: Gabriel Pereira, Henrique José, José Paulo Meira, Renan Albuquerque
+  TEAM:
+- Direction: Beatriz Brayner & Luísa Moreira
+- Programming: Gabriel Pereira, Henrique José, José Paulo Meira, Renan Albuquerque
 - Audiovisual: Beatriz Brayner & Luísa Moreira
-- Roteiro: Beatriz Brayner, Luísa Moreira, Gabriel Pereira
+- Script: Beatriz Brayner, Luísa Moreira, Gabriel Pereira
 
-(Para informações mais detalhadas sobre a produção, leia nosso GDD!)
+(For more detailed information about the production, please read our GDD!)
+*Game in developement in Brazilian Portuguese. GDD in english from GDD 1.1 onward!
